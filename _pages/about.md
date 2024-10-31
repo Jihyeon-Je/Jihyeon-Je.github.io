@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Stanford university
+subtitle: PhD-ing @ Stanford
 
 profile:
   align: right
