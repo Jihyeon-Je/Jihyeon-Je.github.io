@@ -25,3 +25,5 @@ I was also fortunate enough to have worked with <a href="https://mhsung.github.i
 I am a proud alumni of <a href="https://education.wolfram.com/summer-school/alumni/2018/"><b>Wolfram Summer School</b></a>.
 <br><br>
 In my free time, I like to read, run, explore good restaurants, and rewatch Gilmore Girls. I also love playing video games (I like to think it's part of my research). 
+
+Please reach out to me if you are interested in collaborating or just want to chat! 
