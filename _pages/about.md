@@ -9,8 +9,7 @@ profile:
   image: IMG_3019.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Stanford, CA</p><br>
-    <p>Here is my <a href="/assets/pdf/Jihyeon_Je_CV_2024_Oct.pdf"><b>CV</b></a><p>
+    <p>Please refer to my <a href="/assets/pdf/Jihyeon_Je_CV_2024_Oct.pdf"><b>CV</b></a> for more detail<p>
 
 
 news: true # includes a list of news items
