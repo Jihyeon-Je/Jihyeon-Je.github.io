@@ -9,8 +9,9 @@ profile:
   image: IMG_3019.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Stanford University</p>
     <p>Stanford, CA</p>
+    <p><a href="/assets/pdf/Jihyeon_Je_CV_2024_Oct.pdf"><b>CV</b></a><p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

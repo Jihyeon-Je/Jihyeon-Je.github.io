@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our <b>Robust Symmetry Detection via Riemannian Langevin Dynamics</b>, <a href="https://symmetry-langevin.github.io/"> work is accepted at SIGGRAPH ASIA ✨😄
+Our <a href="https://symmetry-langevin.github.io/"> <b>Robust Symmetry Detection via Riemannian Langevin Dynamics</b><a> work is accepted at SIGGRAPH ASIA ✨😄
