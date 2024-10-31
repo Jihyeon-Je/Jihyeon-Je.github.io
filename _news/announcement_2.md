@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our "Robust Symmetry Detection via Riemannian Langevin Dynamics" work is accepted at SIGGRAPH ASIA!
+Our "Robust Symmetry Detection via Riemannian Langevin Dynamics" work is accepted at SIGGRAPH ASIA ✨😄
