@@ -16,7 +16,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a second year <b>Computer Science</b> Ph.D. student at Stanford University, advised by <a href="https://geometry.stanford.edu/"><b>Prof. Leo Guibas</b></a>. I received my Bachelor's degree in Biomedical Engineering, Electrical/Computer Engineering, and Computer Science from Duke University. 
+I am a second year <b>Computer Science</b> Ph.D. student at Stanford University, advised by <a href="https://geometry.stanford.edu/"><b>Prof. Leo Guibas</b></a> and <a href="https://graphics.stanford.edu/~maneesh/"><b>Prof. Maneesh Agrawala</b></a>. I received my Bachelor's degree in Biomedical Engineering, Electrical/Computer Engineering, and Computer Science from Duke University. 
                                    
 I am interested in extracting hidden geometric structures that underlie complex data, particularly at the intersection of computer graphics, geometry/structure processing, and content creation.  
 
