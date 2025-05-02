@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-BlenderGym is accepted at CVPR 2025
+BlenderGym is accepted at CVPR 2025 (HIGHLIGHT)! 
